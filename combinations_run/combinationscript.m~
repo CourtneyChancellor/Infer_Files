@@ -1,0 +1,66 @@
+clear all
+close all
+
+
+comb2
+
+
+clear all
+close all
+
+delete('time.m','BB.m','count.m')
+
+comb3
+
+
+clear all
+close all
+
+delete('time.m','BB.m','count.m')
+
+comb4
+
+
+clear all
+close all
+
+clear all
+close all
+
+
+comb5
+
+
+clear all
+close all
+
+delete('time.m','BB.m','count.m')
+
+comb6
+
+
+clear all
+close all
+
+delete('time.m','BB.m','count.m')
+
+comb7
+
+
+clear all
+close all
+
+
+clear all
+close all
+
+
+comb8
+
+
+clear all
+close all
+
+delete('time.m','BB.m','count.m')
+
+comb9
